@@ -1,5 +1,6 @@
 # clean-blog
-### A simple blog with backend.
+
+A simple blog with backend.
 
 ## Thanks to get startbootstrap.com for providing the static template.
 
